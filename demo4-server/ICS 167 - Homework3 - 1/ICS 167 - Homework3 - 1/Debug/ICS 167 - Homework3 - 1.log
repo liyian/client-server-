@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\xiyuw\desktop\pong1写了一半的备份 - 副本\ics167-hw3-millstone 1\demo4-server\main.cpp(180): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+c:\users\xiyuw\desktop\pong1写了一半的备份 - 副本\ics167-hw3-millstone 1\demo4-server\main.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xiyuw\desktop\pong1写了一半的备份 - 副本\ics167-hw3-millstone 1\demo4-server\main.cpp(300): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xiyuw\desktop\pong1写了一半的备份 - 副本\ics167-hw3-millstone 1\demo4-server\main.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+  ICS 167 - Homework3 - 1.vcxproj -> C:\Users\xiyuw\Desktop\pong1写了一半的备份 - 副本\ICS167-HW3-millstone 1\demo4-server\ICS 167 - Homework3 - 1\Debug\ICS 167 - Homework3 - 1.exe
